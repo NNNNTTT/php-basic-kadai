@@ -1,6 +1,6 @@
 <?php
     $employee_name = $_POST["employee_name"];
-    $employee_age = $_POST["age"];
+    $employee_age = $_POST["employee_age"];
     $department = $_POST["department"];
 ?>
 
